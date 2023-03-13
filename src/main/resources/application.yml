@@ -4,6 +4,8 @@ spring:
     port: 6379
   session:
    store-type: redis
+  cache:
+    type: redis
 redis:
   key:
     fruit: fruit
