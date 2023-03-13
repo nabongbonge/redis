@@ -9,3 +9,4 @@ spring:
 redis:
   key:
     fruit: fruit
+    rank: rank
